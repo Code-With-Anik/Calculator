@@ -20,7 +20,7 @@ This is a simple and elegant Calculator UI project that showcases a visually app
 
 ## Deployment
 
-The Calculator UI project is deployed using GitHub Pages. You can access the deployed application by following this link: [Calculator UI GitHub Pages](https://github.com/Code-With-Anik/Calculator)
+The Calculator UI project is deployed using GitHub Pages. You can access the deployed application by following this link: [Calculator UI GitHub Pages](https://code-with-anik.github.io/Calculator/)
 
 ## Usage
 
